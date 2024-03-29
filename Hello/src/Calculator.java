@@ -44,5 +44,6 @@ public class Calculator {
 			}
 		}
 		scan.close();
+		//1
 	}
 }
